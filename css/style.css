@@ -587,7 +587,7 @@ a {
   color: #f9802d;
 }
 a:hover {
-  color: #fba414;
+  color: #ffb64f;
 }
 p {
   line-height: 1.5em;
@@ -1035,7 +1035,7 @@ thead {
   color: #db8540;
 }
 .categories-list-container-helpers a:hover {
-  color: #fba414;
+  color: #ffb64f;
   text-decoration: underline;
 }
 .category-list-count {
@@ -1092,7 +1092,7 @@ body .main .main-content {
 }
 .tag-list-container a:hover {
   text-decoration: underline;
-  color: #fba414;
+  color: #ffb64f;
 }
 .tag-count {
   vertical-align: super;
@@ -1116,7 +1116,7 @@ body .main .main-content {
   color: #f9802d;
 }
 .index-posts .index-post-item h1 a:hover {
-  color: #fba414;
+  color: #ffb64f;
 }
 .index-posts .index-post-item h1 a i {
   margin-right: 5px;
@@ -1236,7 +1236,7 @@ body .main .main-content {
 }
 .post-prev a:hover,
 .post-next a:hover {
-  color: #fba414;
+  color: #ffb64f;
 }
 .post-prev a:hover {
   animation: to-left 0.8s infinite;
@@ -1505,7 +1505,7 @@ header {
   font-size: 30px;
   font-weight: bold;
   text-decoration: none;
-  color: #fba414;
+  color: #ffb64f;
   margin-left: 5px;
 }
 .nav-info div #nav-title:hover {
@@ -1528,7 +1528,7 @@ header {
 }
 .top-menu-expanded .top-menu-item {
   text-decoration: none;
-  color: #fba414;
+  color: #ffb64f;
   margin-right: 20px;
 }
 .top-menu-expanded .top-menu-item i {
@@ -1654,12 +1654,12 @@ header {
   color: #1f1235;
   width: 70px;
   height: 40px;
-  border-bottom: 3px solid #fba414;
+  border-bottom: 3px solid #ffb64f;
   line-height: 40px;
 }
 .index-menu .menu-item:hover {
-  color: #fba414;
-  border-bottom: 6px solid #fba414;
+  color: #ffb64f;
+  border-bottom: 6px solid #ffb64f;
 }
 .pagination {
   margin: 30px auto 5px;
@@ -1673,7 +1673,7 @@ header {
   text-decoration: none;
 }
 .pagination a:hover {
-  color: #fba414;
+  color: #ffb64f;
 }
 .pagination .prev,
 .pagination .next {
@@ -1681,7 +1681,7 @@ header {
 }
 .pagination .prev:hover,
 .pagination .next:hover {
-  color: #fba414;
+  color: #ffb64f;
 }
 .pagination .prev i,
 .pagination .next i {
@@ -1690,7 +1690,7 @@ header {
 }
 .pagination .prev i:hover,
 .pagination .next i:hover {
-  color: #fba414;
+  color: #ffb64f;
 }
 .pagination .page-number {
   margin: 0 5px;
@@ -1812,7 +1812,7 @@ header {
   margin-top: 0;
 }
 #tool-bar div:hover {
-  color: #fba414;
+  color: #ffb64f;
   cursor: pointer;
 }
 #tool-bar #back-to-top {
@@ -1838,7 +1838,7 @@ header {
   padding-right: 5px;
 }
 .post-copyright a:hover {
-  color: #fba414;
+  color: #ffb64f;
 }
 .post-date i {
   margin-right: 5px;
@@ -1857,7 +1857,7 @@ header {
   padding: 0 5px;
 }
 .post-categories .post-category:hover {
-  color: #fba414;
+  color: #ffb64f;
 }
 .post-tags {
   margin: 5px 0;
@@ -1873,7 +1873,7 @@ header {
   padding: 0 5px;
 }
 .post-tags .post-tag:hover {
-  color: #fba414;
+  color: #ffb64f;
 }
 #reward-panel {
   position: fixed;
