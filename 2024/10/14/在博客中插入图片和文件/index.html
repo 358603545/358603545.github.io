@@ -12,7 +12,7 @@
 <div class="post-word-count"><i class="icon fa-solid fa-pen-to-square"></i><span>全文约526字</span></div><div class="pageview-post"><i class="icon fa-regular fa-eye"></i><span id="busuanzi_container_page_pv">本文阅读次数: <span id="busuanzi_value_page_pv"><i class="fa-solid fa-spinner"></i></span></span></div></div></div><div class="post-content"><h3 id="⚠️-写在前面：文件名中不要包含中文和空格，这是避免出错的关键。"><a href="#⚠️-写在前面：文件名中不要包含中文和空格，这是避免出错的关键。" class="headerlink" title="⚠️ 写在前面：文件名中不要包含中文和空格，这是避免出错的关键。"></a>⚠️ 写在前面：文件名中不要包含中文和空格，这是避免出错的关键。</h3><hr>
 <h2 id="下载插件"><a href="#下载插件" class="headerlink" title="下载插件"></a>下载插件</h2><p>首先，下载 <code>hexo-asset-img</code> 插件。在 Terminal 中输入以下命令：</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-asset-img --save</span><br></pre></td></tr></table></figure>
-<p>下次成功后，你可以在<code>node_modules</code>文件夹中找到名为<code>hexo-asset-img</code>的文件夹。</p>
+<p>下载成功后，你可以在<code>node_modules</code>文件夹中找到名为<code>hexo-asset-img</code>的文件夹。</p>
 <h2 id="开启每篇文章单独的存放图片-文件的文件夹"><a href="#开启每篇文章单独的存放图片-文件的文件夹" class="headerlink" title="开启每篇文章单独的存放图片&#x2F;文件的文件夹"></a>开启每篇文章单独的存放图片&#x2F;文件的文件夹</h2><p>在博客的根目录下，找到并编辑<code>_config.yml</code>文件,找到<code>post_asset_folder</code>,将其值从<code>false</code>改为<code>ture</code><br>如下所示：</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">post_asset_folder: <span class="literal">true</span></span><br></pre></td></tr></table></figure>
 <p>这样，每次使用 <code>hexo n &quot;文章的名字&quot;</code> 创建新文章时，<code>source/_posts</code> 目录下会自动生成一个与文章同名的文件夹，你可以将这篇文章需要引用的图片或文件放入该文件夹中。</p>
