@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>blender操作小技巧-视图篇</title>
-      <link href="/2024/11/18/blender%E6%93%8D%E4%BD%9C%E5%B0%8F%E6%8A%80%E5%B7%A7-%E8%A7%86%E5%9B%BE%E7%AF%87/"/>
-      <url>/2024/11/18/blender%E6%93%8D%E4%BD%9C%E5%B0%8F%E6%8A%80%E5%B7%A7-%E8%A7%86%E5%9B%BE%E7%AF%87/</url>
+      <title>blender操作技巧</title>
+      <link href="/2024/11/18/blender%E6%93%8D%E4%BD%9C%E6%8A%80%E5%B7%A7/"/>
+      <url>/2024/11/18/blender%E6%93%8D%E4%BD%9C%E6%8A%80%E5%B7%A7/</url>
       
-        <content type="html"><![CDATA[<p>本篇关于除了移动旋转缩放等基础操作外，让查看模型时更方便的技巧。<br>（主要是博主自己做的笔记，晚点来配图完善）</p><span id="more"></span><h2 id="改变视图透视焦距"><a href="#改变视图透视焦距" class="headerlink" title="改变视图透视焦距"></a>改变视图透视焦距</h2><p>如果觉得焦距过大&#x2F;过小，可以按照以下步骤调整</p><ol><li>按<code>N</code>打开侧边栏</li><li>选择View</li><li>调整focal length数值</li></ol><h2 id="以选中物体为中心旋转视角（聚焦到选中物体）"><a href="#以选中物体为中心旋转视角（聚焦到选中物体）" class="headerlink" title="以选中物体为中心旋转视角（聚焦到选中物体）"></a>以选中物体为中心旋转视角（聚焦到选中物体）</h2><ol><li>选中想要作为中心的物体（或edit mode下的部分物体）</li><li>点击小键盘上的<code>.</code></li></ol>]]></content>
+        <content type="html"><![CDATA[<p>本篇包括除了移动旋转缩放等基础操作外，查看模型时更方便的技巧。<br>（主要是博主自己做的笔记，晚点来配图完善）</p><span id="more"></span><br><h2 id="改变视图透视焦距"><a href="#改变视图透视焦距" class="headerlink" title="改变视图透视焦距"></a>改变视图透视焦距</h2><p>如果觉得焦距过大&#x2F;过小，可以按照以下步骤调整</p><ol><li>按<code>N</code>打开侧边栏</li><li>选择View</li><li>调整focal length数值</li></ol><br><h2 id="以选中物体为中心旋转视角（聚焦到选中物体）"><a href="#以选中物体为中心旋转视角（聚焦到选中物体）" class="headerlink" title="以选中物体为中心旋转视角（聚焦到选中物体）"></a>以选中物体为中心旋转视角（聚焦到选中物体）</h2><ol><li>选中想要作为中心的物体（或Edit Mode模式下选择部分面）</li><li>点击小键盘上的<code>.</code></li></ol><h2 id="Emission色彩模式下，模型的颜色比uv颜色偏灰的解决方法"><a href="#Emission色彩模式下，模型的颜色比uv颜色偏灰的解决方法" class="headerlink" title="Emission色彩模式下，模型的颜色比uv颜色偏灰的解决方法"></a>Emission色彩模式下，模型的颜色比uv颜色偏灰的解决方法</h2><ol><li>打开Render Properties(右侧属性面板中的小电视图标)</li><li>找到Color Management选项</li><li>View Transform 改成 Standard</li></ol>]]></content>
       
       
       <categories>
